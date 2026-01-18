@@ -27,12 +27,16 @@ A
 
 Create New Tab again
 
-Install
+Install 
+
+
 pip install pytest-playwright
 
 playwright install
 
 Requirements
+
+
 get list of installed tools
 
 pip list
